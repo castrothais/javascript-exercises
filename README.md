@@ -17,11 +17,12 @@ Este repositório contém uma coleção de exercícios de JavaScript abordando d
 
 ### Como Usar 🏃
 
-1. Copie o link: ``` https://github.com/castrothais/javascript-exercises.git```
+1. Copie o link:
+   * ` https://github.com/castrothais/javascript-exercises.git`
 
-2. Abra um terminal e Clone este repositório em sua máquina local:
+3. Abra um terminal e Clone este repositório em sua máquina local:
     * `git clone https://github.com/castrothais/javascript-exercises.git`
-3. Navegue até o diretório do projeto:
+4. Navegue até o diretório do projeto:
     * `cd javascript-exercises`
 
 Dentro de cada diretório correspondente aos tipos de exercícios, você encontrará arquivos com as soluções dos exercícios em JavaScript.
